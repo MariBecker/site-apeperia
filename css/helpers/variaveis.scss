@@ -1,5 +1,9 @@
 // Variáveis usadas no meu Sass
 
-$cor-padrao: #c24e4b;
+//Aqui podemos usar a palavra darken para escurecer uma cor//
+//E também a palavra lighten para clarear//
+//E usar a porcentagem (não precisa do simbolo %)//
+
+$cor-padrao: darken(#c24e4b, 0);
 $cor-auxiliar: #1e2c35;
 $cor-branca: #fff;
