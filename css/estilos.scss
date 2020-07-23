@@ -1,4 +1,7 @@
 //Aqui é possivel usar o import sem a extensão .scss//
+$sprite-spacing: 2px;
+
+@import "sprite/*.png";
 
 @import "helpers/variaveis";
 @import "helpers/mixins";
